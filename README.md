@@ -1,7 +1,6 @@
 # Hand-Gesture-Recognition
 
-## Task
-Developing a classification model to differentiate gestures.
+A classification model to differentiate hand gestures.
 
 ## Data
 List of 2000 examples of 6 different types of hand gestures. 
