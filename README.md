@@ -1,4 +1,4 @@
-# Gesture-Recognition
+# Hand-Gesture-Recognition
 
 ## Task
 Developing a classification model to differentiate gestures.
@@ -53,11 +53,19 @@ The best model is LSTM rawData.py. Change the “inputDir” variable to be the 
 
 ## Reference
 [1] Murakami, Kouichi, and Hitomi Taguchi. “Gesture Recognition Using Recurrent Neu- ral Networks.” In Proceedings of the SIGCHI conference on Human factors in computing systems, pp. 237-242. ACM, 1991.
+
 [2] Rechy-Ramirez, Ericka Janet, and Huosheng Hu. “Stages for Developing Control Sys- tems using EMG and EEG signals: A survey.” School of Computer Science and Electronic Engineering, University of Essex (2011): 1744-8050.
+
 [3] Ververidis, Dimitrios, Sotirios Karavarsamis, Spiros Nikolopoulos, and Ioannis Kompat- siaris. “Pottery gestures style comparison by exploiting Myo sensor and forearm anatomy.” In Proceedings of the 3rd International Symposium on Movement and Computing, p. 3. ACM, 2016.
+
 [4] Hamedi, M., Sh-H. Salleh, A. M. Noor, T. T. Swee, and I. K. Afizam. “Comparison of different time-domain feature extraction methods on facial gestures’ EMGs.” In Prog. Electromagn. Res. Symp. Proc, vol. 12, pp. 1897-1900. 2012.
+
 [5] Ahsan, Md Rezwanul, Muhammad Ibn Ibrahimy, and Othman O. Khalifa. “Electromyg- raphy (EMG) signal based hand gesture recognition using artificial neural network (ANN).” In Mechatronics (ICOM), 2011 4th International Conference On, pp. 1-6. IEEE, 2011.
+
 [6] A. Phinyomark, C. Limsakul, and P. Phukpattaranont. “A novel feature extraction for robust EMG pattern recog- nition. ” Journal of Computing, 1(1):7180, 2009.
+
 [7] H.P. Huang and C.Y. Chen. “Development of a myoelectric discrimination system for a multi-degree prosthetic hand. ” In Robotics and Automation, 1999. Proceedings. 1999 IEEE International Conference on, volume 3, pages 23922397. IEEE, 1999.
+
 [8] M. Weeks. “Digital signal processing using MATLAB and wavelets. ” Jones and Bartlett Publishers, LLC, second edition, 2011.
+
 [9] J.D. Bronzino. The biomedical engineering handbook. CRC Pr I Llc, 2000.
